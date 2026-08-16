@@ -1,0 +1,7 @@
+classe,c_spread_bp,V_pct_jour,gamma,lambda_pct
+Obligations souveraines zone euro,3,0.6,0.5,1.2
+Obligations dentreprises,18,0.2,0.55,2.5
+Actions et participations,6,0.9,0.5,1.0
+OPC non ventiles,25,0.15,0.6,3.5
+Immobilier,150,0.02,0.85,12.0
+Tresorerie et depots,1,50.0,0.3,0.05
