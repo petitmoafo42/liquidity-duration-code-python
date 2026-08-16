@@ -43,12 +43,6 @@ jupyter notebook liquidity_duration.ipynb
 
 ou ouvrez directement le fichier dans VS Code et lancez les cellules.
 
-### Avec Python
-
-```bash
-python liquidity_duration.py
-```
-
 Le script génère les fichiers CSV et les images dans le même dossier.
 
 ## Sorties produites
